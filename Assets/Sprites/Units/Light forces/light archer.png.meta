@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 7965e8cf57831f34193f788eb91ef2fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8934880822913733350
+    second: light archer_0
+  - first:
+      213: 8801610352011093738
+    second: light archer_1
+  - first:
+      213: 5362548687066077545
+    second: light archer_2
+  - first:
+      213: 3663072254641449324
+    second: light archer_3
+  - first:
+      213: -419947902372739335
+    second: light archer_4
+  - first:
+      213: -1627920162059114007
+    second: light archer_5
+  - first:
+      213: 7402016798166493134
+    second: light archer_6
+  - first:
+      213: -6112811197883734830
+    second: light archer_7
+  - first:
+      213: 201094813468941503
+    second: light archer_8
+  - first:
+      213: -8231280171148002846
+    second: light archer_9
+  - first:
+      213: 55050312879713871
+    second: light archer_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: light archer_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 601
+        width: 340
+        height: 357
+      alignment: 9
+      pivot: {x: 0.50323457, y: 0.09029784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de6c70b3de00480800000000000000
+      internalID: -8934880822913733350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light archer_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 762
+        width: 102
+        height: 174
+      alignment: 9
+      pivot: {x: 0.101079606, y: 0.93609864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6a5037bf9952a70800000000000000
+      internalID: 8801610352011093738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light archer_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 765
+        width: 163
+        height: 96
+      alignment: 9
+      pivot: {x: 0.068205476, y: 0.12196922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9699f4f6e999b6a40800000000000000
+      internalID: 5362548687066077545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light archer_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 809
+        width: 505
+        height: 114
+      alignment: 9
+      pivot: {x: 0.09059684, y: 0.59646714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c692e7ccec8d5d230800000000000000
+      internalID: 3663072254641449324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light archer_4
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 782
+        width: 158
+        height: 130
+      alignment: 9
+      pivot: {x: 0.07542246, y: 0.9060533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f607e69b9b0c2af0800000000000000
+      internalID: -419947902372739335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light archer_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 353
+        height: 513
+      alignment: 9
+      pivot: {x: 0.55296147, y: 0.31564027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e925c9dc377869e0800000000000000
+      internalID: -1627920162059114007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light archer_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 319
+        width: 155
+        height: 237
+      alignment: 9
+      pivot: {x: 0.38648012, y: 0.95009923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec720347f0f39b660800000000000000
+      internalID: 7402016798166493134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light archer_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 313
+        width: 154
+        height: 246
+      alignment: 9
+      pivot: {x: 0.3428967, y: 0.9470433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d42c134a9eea2ba0800000000000000
+      internalID: -6112811197883734830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light archer_8
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 485
+        width: 54
+        height: 250
+      alignment: 9
+      pivot: {x: 0.7647502, y: 0.94868845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc5dfadaae6ac200800000000000000
+      internalID: 201094813468941503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light archer_9
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 220
+        width: 179
+        height: 540
+      alignment: 9
+      pivot: {x: 0.75803685, y: 0.5183287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b108ab4e94cd80800000000000000
+      internalID: -8231280171148002846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light archer_10
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 219
+        width: 26
+        height: 229
+      alignment: 9
+      pivot: {x: 0.41540527, y: 0.05338604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e28f7c7f393c000800000000000000
+      internalID: 55050312879713871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
